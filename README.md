@@ -23,3 +23,6 @@ I am going to make a Body Mass Index Calculator inspired by the beautiful design
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
 
+# MY App PREVIEW
+![WhatsApp Image 2020-11-19 at 6 24 29 AM (1)](https://user-images.githubusercontent.com/51153678/99609759-548a1900-2a32-11eb-9188-870fbc2065a4.jpeg)
+![WhatsApp Image 2020-11-19 at 6 24 29 AM (2)](https://user-images.githubusercontent.com/51153678/99609763-5653dc80-2a32-11eb-8f91-05032be691c7.jpeg)
